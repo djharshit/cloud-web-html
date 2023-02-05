@@ -9,3 +9,4 @@
 * [SQL Client](https://webphpmyadmin.com/index.php)
 * [Cloud Map](https://www.cloudinfrastructuremap.com/)
 * [All Cloud Services](https://cloud.google.com/products)
+* [Pricing Calculator](https://cloud.google.com/products/calculator)
