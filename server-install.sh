@@ -1,7 +1,4 @@
-sudo apt-get update
-
 sudo apt-get install apache2
+sudo service apache2 status
 
-sudo systemctl status apache2.service
-
-sudo systemctl restart apache2.service
+sudo service apache2 restart
